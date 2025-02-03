@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
     background-color: white;
 }
 body 
@@ -56,12 +55,8 @@ font-weight: bold; }
         padding: 20px; 
         border-radius: 8px; 
         width: 25%; }
-=======
-    background-color: rgb(255, 255, 255);
-}
 .Logo{
     width: 39px;
     height: 40px;
     flex-shrink: 0;
 }
->>>>>>> fe3f1c4133237fbed05ef3028612461948f638cc
