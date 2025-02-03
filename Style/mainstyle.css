@@ -1,4 +1,20 @@
 header{
     background-image: url("../img/Header_background.png");
     height: 500px;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    margin: 0 auto;
+}
+.Logo_main{
+    align-self: left;
+    margin-left: 1%;
+}
+.Button{
+    margin-right: 1%;
 }
