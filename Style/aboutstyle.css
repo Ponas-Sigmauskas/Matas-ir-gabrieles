@@ -99,3 +99,8 @@ h1{
     font-weight: 400;
     line-height: normal;
 }
+.About{
+    background-image:url(/img/block_about1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
